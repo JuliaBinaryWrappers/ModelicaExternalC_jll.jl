@@ -1,0 +1,160 @@
+[[ModelicaExternalC]]
+arch = "aarch64"
+git-tree-sha1 = "cc86ef40c41fdefa04a78f3e94ce28814889982b"
+os = "macos"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "9c6332c3de15e3ef9cacf3dbcce3e72376b3c7d2c87faa3cfd2178124f2db8be"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.aarch64-apple-darwin.tar.gz"
+[[ModelicaExternalC]]
+arch = "aarch64"
+git-tree-sha1 = "735e58761248e841509cc0e4cab3658a1c6f45e9"
+libc = "glibc"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "1add749b951914292ef7e6d7ee3f5e41ef03ffaa6bb00c768dbb3d9711fbc1a7"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.aarch64-linux-gnu.tar.gz"
+[[ModelicaExternalC]]
+arch = "aarch64"
+git-tree-sha1 = "55434fea784d370b77fa354b457ef69f7c368b16"
+libc = "musl"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "1ee0c2a827ca79d16dd5f328e148b47738e29399a0adebc90939d5a31abc0a7b"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.aarch64-linux-musl.tar.gz"
+[[ModelicaExternalC]]
+arch = "aarch64"
+git-tree-sha1 = "0b93f75644fa36f18a58319fbee501845cf01b77"
+os = "freebsd"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "f03cfb363c75c268d2a2824d39a900d1b5eb809f2fba394960c4179633907f01"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.aarch64-unknown-freebsd.tar.gz"
+[[ModelicaExternalC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "069ca78e0eb6ad246d5169b42abe2eb28e2ff784"
+libc = "glibc"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "21ada2bb487bad3e8d2ba49293b91a0d0526c7b7126ef3d43846d11fff8ce2d5"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[ModelicaExternalC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "472644d9f42a263f10b34df0558321d23fc72dee"
+libc = "musl"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "3b9eb513d2e2ce4ac320517bfed957dd29e79231fe1d36bff29be650dea8d5fc"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.armv6l-linux-musleabihf.tar.gz"
+[[ModelicaExternalC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d90bd7d116ec1cd1ce4573190098f7b3fe19bc25"
+libc = "glibc"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "4f575adc9cef07e01abfc38dbbbe3fac762902473cbe7fc38ed309229a33730c"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[ModelicaExternalC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "68731430efc35e8de3190c063a17fd5ac7289698"
+libc = "musl"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "8f5f77307ba3cf29e018e81fa282da2691f3464f53118271f6bc850d52732c7d"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.armv7l-linux-musleabihf.tar.gz"
+[[ModelicaExternalC]]
+arch = "i686"
+git-tree-sha1 = "3ba12ea1df8f6463ee7cf1ae7d7a85594e2627f0"
+libc = "glibc"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "40d30f8883f87d1b24a40c09aae55dcc5828030e03472d263b1f1f6399d5839f"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.i686-linux-gnu.tar.gz"
+[[ModelicaExternalC]]
+arch = "i686"
+git-tree-sha1 = "46bad4af2843a2962205ff8ed4cdbb93389e0919"
+libc = "musl"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "50164a272590ea6ce1befc8abc4bb3cd7c35c901bdb6621d722bcf353d120969"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.i686-linux-musl.tar.gz"
+[[ModelicaExternalC]]
+arch = "i686"
+git-tree-sha1 = "bfea17185c77dd966be38279b2fd38433d598ffc"
+os = "windows"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "4fad66f49dbb47054312b4f41cc091ad35d29a26d6f02d655b92433f228ded09"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.i686-w64-mingw32.tar.gz"
+[[ModelicaExternalC]]
+arch = "powerpc64le"
+git-tree-sha1 = "cd715949f350319c8a2a943c92e5f20d38024ba1"
+libc = "glibc"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "26f3dfd643b54bda20f87f58444cd3ad3ccddc0979a2588c47a88cbf2ccc8530"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.powerpc64le-linux-gnu.tar.gz"
+[[ModelicaExternalC]]
+arch = "riscv64"
+git-tree-sha1 = "47b95df868962f3cb0eed486809fe5c86e121a1b"
+libc = "glibc"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "067f3b7a509cd792951662149b9125f5ce5ab3ac6af8e4a18dfc3ddbd112c0fe"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.riscv64-linux-gnu.tar.gz"
+[[ModelicaExternalC]]
+arch = "x86_64"
+git-tree-sha1 = "e2bfbd4354633fb3daa84d58dd1b7d5146044801"
+os = "macos"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "dca0abc6ec450f0dce6877faa61eaf382b74d9802b5fd439c52e80f85abaff49"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.x86_64-apple-darwin.tar.gz"
+[[ModelicaExternalC]]
+arch = "x86_64"
+git-tree-sha1 = "48cbeca50363bf7999b1cd0e75682362730a4358"
+libc = "glibc"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "19a30d5f942fb360448d1e3b571d5f457f5443acb5f36cd5733e0c6cafe37146"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.x86_64-linux-gnu.tar.gz"
+[[ModelicaExternalC]]
+arch = "x86_64"
+git-tree-sha1 = "c02a223407a565b010b36646eb7eebd6e0584929"
+libc = "musl"
+os = "linux"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "e05041a00064b0b6ebd8772271d8da008dad7cd022f23c7ad46c1bac1645de37"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.x86_64-linux-musl.tar.gz"
+[[ModelicaExternalC]]
+arch = "x86_64"
+git-tree-sha1 = "72a09bfec11ba0d4040ae10a5f512b0a8106d378"
+os = "freebsd"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "5ae2dc610c4854a41e7227f5c7bcde98cb4f9e3c8c19f2a768892aa50bf263d6"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.x86_64-unknown-freebsd.tar.gz"
+[[ModelicaExternalC]]
+arch = "x86_64"
+git-tree-sha1 = "ce2e42451502ce6930521ba95d449fe4e7478703"
+os = "windows"
+
+    [[ModelicaExternalC.download]]
+    sha256 = "18c9b1b0ec09fdbf4159d39352ab0d5bf251263e9b869f2a55fa44bd754b8e27"
+    url = "https://github.com/JuliaBinaryWrappers/ModelicaExternalC_jll.jl/releases/download/ModelicaExternalC-v4.1.0+0/ModelicaExternalC.v4.1.0.x86_64-w64-mingw32.tar.gz"

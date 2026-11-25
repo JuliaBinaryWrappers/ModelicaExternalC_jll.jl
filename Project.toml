@@ -1,0 +1,14 @@
+version = "4.1.0+0"
+name = "ModelicaExternalC_jll"
+uuid = "e50027ce-dbd8-5e12-a1a0-972edb6cb29f"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "1.6"
+JLLWrappers = "1.7.0"
+Artifacts = "< 0.0.1, 1"
